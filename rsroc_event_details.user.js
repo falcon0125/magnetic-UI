@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name RSROC Event Details
 // @namespace http://tampermonkey.net/
-// @version 0.5
+// @version 0.6
 // @description Extract event details and display them on the calendar page
 // @author Cheng Hsien Tsou
 // @match https://www.rsroc.org.tw/action/*
 // @match https://www.rsroc.org.tw/action/actions_onlinedetail.asp*
 // @grant none
+// @license MIT
 // ==/UserScript==
 
 /*
